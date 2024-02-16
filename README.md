@@ -1,6 +1,6 @@
 # XNode Console Frontend
 
-![logo](xnode-logo.svg)
+![logo](MEDIA/xnode-logo.svg)
 
 A drag and drop node editor to deploy Xnodes on baremetal.
 
