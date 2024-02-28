@@ -14,6 +14,6 @@ See it in action at [openmesh.network/xnode](https://openmesh.network/xnode).
 
 ![screenshot 2](MEDIA/screenshot2.png)
 
-##Developing
+## Developing
 npm install
 npm run dev
