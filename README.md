@@ -13,3 +13,7 @@ See it in action at [openmesh.network/xnode](https://openmesh.network/xnode).
 ![screenshot 1](MEDIA/screenshot1.png)
 
 ![screenshot 2](MEDIA/screenshot2.png)
+
+##Developing
+npm install
+npm run dev
